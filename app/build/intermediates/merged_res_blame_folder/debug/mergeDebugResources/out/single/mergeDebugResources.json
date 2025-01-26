@@ -1,0 +1,318 @@
+[
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/drawable_image1.jpg.flat",
+        "source": "com.example.mydevesstream.app-main-51:/drawable/image1.jpg"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/drawable_text_round.xml.flat",
+        "source": "com.example.mydevesstream.app-main-51:/drawable/text_round.xml"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/drawable_notification.xml.flat",
+        "source": "com.example.mydevesstream.app-main-51:/drawable/notification.xml"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.mydevesstream.app-main-51:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/layout_activity_onboarding.xml.flat",
+        "source": "com.example.mydevesstream.app-main-51:/layout/activity_onboarding.xml"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/layout_activity_splash.xml.flat",
+        "source": "com.example.mydevesstream.app-main-51:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/layout_vidoe_layout.xml.flat",
+        "source": "com.example.mydevesstream.app-main-51:/layout/vidoe_layout.xml"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mydevesstream.app-main-51:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.mydevesstream.app-main-51:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/layout_car_layout.xml.flat",
+        "source": "com.example.mydevesstream.app-main-51:/layout/car_layout.xml"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/drawable_phone.png.flat",
+        "source": "com.example.mydevesstream.app-main-51:/drawable/phone.png"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/drawable_image5.jpg.flat",
+        "source": "com.example.mydevesstream.app-main-51:/drawable/image5.jpg"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/drawable_s1.xml.flat",
+        "source": "com.example.mydevesstream.app-main-51:/drawable/s1.xml"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/drawable_user.xml.flat",
+        "source": "com.example.mydevesstream.app-main-51:/drawable/user.xml"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/drawable_baseline_person_outline_24.xml.flat",
+        "source": "com.example.mydevesstream.app-main-51:/drawable/baseline_person_outline_24.xml"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/drawable_arror.xml.flat",
+        "source": "com.example.mydevesstream.app-main-51:/drawable/arror.xml"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/drawable_slider3.png.flat",
+        "source": "com.example.mydevesstream.app-main-51:/drawable/slider3.png"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.mydevesstream.app-main-51:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.mydevesstream.app-main-51:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/xml_backup_rules.xml.flat",
+        "source": "com.example.mydevesstream.app-main-51:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/drawable_search_shap.xml.flat",
+        "source": "com.example.mydevesstream.app-main-51:/drawable/search_shap.xml"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/font_doppio_one.ttf.flat",
+        "source": "com.example.mydevesstream.app-main-51:/font/doppio_one.ttf"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/drawable_s2.xml.flat",
+        "source": "com.example.mydevesstream.app-main-51:/drawable/s2.xml"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.mydevesstream.app-main-51:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/drawable_baseline_home_24.xml.flat",
+        "source": "com.example.mydevesstream.app-main-51:/drawable/baseline_home_24.xml"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/font_regular.ttf.flat",
+        "source": "com.example.mydevesstream.app-main-51:/font/regular.ttf"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/layout_trans_layout.xml.flat",
+        "source": "com.example.mydevesstream.app-main-51:/layout/trans_layout.xml"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/drawable_text_shap.xml.flat",
+        "source": "com.example.mydevesstream.app-main-51:/drawable/text_shap.xml"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mydevesstream.app-main-51:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/font_audiowide.ttf.flat",
+        "source": "com.example.mydevesstream.app-main-51:/font/audiowide.ttf"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/drawable_attendance.png.flat",
+        "source": "com.example.mydevesstream.app-main-51:/drawable/attendance.png"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/drawable_image3.jpg.flat",
+        "source": "com.example.mydevesstream.app-main-51:/drawable/image3.jpg"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/color_bottom_nav_color.xml.flat",
+        "source": "com.example.mydevesstream.app-main-51:/color/bottom_nav_color.xml"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/drawable_layout_shap.xml.flat",
+        "source": "com.example.mydevesstream.app-main-51:/drawable/layout_shap.xml"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/font_cambay.ttf.flat",
+        "source": "com.example.mydevesstream.app-main-51:/font/cambay.ttf"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/drawable_logo.png.flat",
+        "source": "com.example.mydevesstream.app-main-51:/drawable/logo.png"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/layout_activity_home.xml.flat",
+        "source": "com.example.mydevesstream.app-main-51:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/menu_botton_navigation.xml.flat",
+        "source": "com.example.mydevesstream.app-main-51:/menu/botton_navigation.xml"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/drawable_s3.xml.flat",
+        "source": "com.example.mydevesstream.app-main-51:/drawable/s3.xml"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.mydevesstream.app-main-51:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/drawable_slider2.png.flat",
+        "source": "com.example.mydevesstream.app-main-51:/drawable/slider2.png"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/drawable_baseline_search_24.xml.flat",
+        "source": "com.example.mydevesstream.app-main-51:/drawable/baseline_search_24.xml"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mydevesstream.app-main-51:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/drawable_baseline_arrow_circle_right_24.xml.flat",
+        "source": "com.example.mydevesstream.app-main-51:/drawable/baseline_arrow_circle_right_24.xml"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/layout_fragment_search.xml.flat",
+        "source": "com.example.mydevesstream.app-main-51:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/color_chip_color.xml.flat",
+        "source": "com.example.mydevesstream.app-main-51:/color/chip_color.xml"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/layout_fragment_wallet.xml.flat",
+        "source": "com.example.mydevesstream.app-main-51:/layout/fragment_wallet.xml"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/drawable_rol.xml.flat",
+        "source": "com.example.mydevesstream.app-main-51:/drawable/rol.xml"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/drawable_ic_baseline_keyboard_arrow_down_24.xml.flat",
+        "source": "com.example.mydevesstream.app-main-51:/drawable/ic_baseline_keyboard_arrow_down_24.xml"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/drawable_chip_shap.xml.flat",
+        "source": "com.example.mydevesstream.app-main-51:/drawable/chip_shap.xml"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/drawable_baseline_wallet_24.xml.flat",
+        "source": "com.example.mydevesstream.app-main-51:/drawable/baseline_wallet_24.xml"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/drawable_image2.jpg.flat",
+        "source": "com.example.mydevesstream.app-main-51:/drawable/image2.jpg"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/drawable_attend1.png.flat",
+        "source": "com.example.mydevesstream.app-main-51:/drawable/attend1.png"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/drawable_s4.xml.flat",
+        "source": "com.example.mydevesstream.app-main-51:/drawable/s4.xml"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/drawable_arr.xml.flat",
+        "source": "com.example.mydevesstream.app-main-51:/drawable/arr.xml"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/font_basic.ttf.flat",
+        "source": "com.example.mydevesstream.app-main-51:/font/basic.ttf"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/layout_activity_movie_details.xml.flat",
+        "source": "com.example.mydevesstream.app-main-51:/layout/activity_movie_details.xml"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/drawable_nav_background_curved.xml.flat",
+        "source": "com.example.mydevesstream.app-main-51:/drawable/nav_background_curved.xml"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.mydevesstream.app-main-51:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/drawable_chart_in.xml.flat",
+        "source": "com.example.mydevesstream.app-main-51:/drawable/chart_in.xml"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/drawable_search.xml.flat",
+        "source": "com.example.mydevesstream.app-main-51:/drawable/search.xml"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.mydevesstream.app-main-51:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/layout_activity_main.xml.flat",
+        "source": "com.example.mydevesstream.app-main-51:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.mydevesstream.app-main-51:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/drawable_slider1.png.flat",
+        "source": "com.example.mydevesstream.app-main-51:/drawable/slider1.png"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/font_poppins_semibold.ttf.flat",
+        "source": "com.example.mydevesstream.app-main-51:/font/poppins_semibold.ttf"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/drawable_chip_color.xml.flat",
+        "source": "com.example.mydevesstream.app-main-51:/drawable/chip_color.xml"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/drawable_linear_shap.xml.flat",
+        "source": "com.example.mydevesstream.app-main-51:/drawable/linear_shap.xml"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/font_talic.ttf.flat",
+        "source": "com.example.mydevesstream.app-main-51:/font/talic.ttf"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.mydevesstream.app-main-51:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/drawable_tns.png.flat",
+        "source": "com.example.mydevesstream.app-main-51:/drawable/tns.png"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/drawable_chart_out.xml.flat",
+        "source": "com.example.mydevesstream.app-main-51:/drawable/chart_out.xml"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/drawable_image4.jpeg.flat",
+        "source": "com.example.mydevesstream.app-main-51:/drawable/image4.jpeg"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/drawable_vector.xml.flat",
+        "source": "com.example.mydevesstream.app-main-51:/drawable/vector.xml"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/font_roboto.ttf.flat",
+        "source": "com.example.mydevesstream.app-main-51:/font/roboto.ttf"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mydevesstream.app-main-51:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mydevesstream.app-main-51:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/layout_fragment_home.xml.flat",
+        "source": "com.example.mydevesstream.app-main-51:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-debug-49:/drawable_baseline_circle_24.xml.flat",
+        "source": "com.example.mydevesstream.app-main-51:/drawable/baseline_circle_24.xml"
+    }
+]

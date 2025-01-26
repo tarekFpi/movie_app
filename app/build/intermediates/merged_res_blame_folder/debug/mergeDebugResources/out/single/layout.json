@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "com.example.mydevesstream.app-mergeDebugResources-48:/layout/fragment_home.xml",
+        "source": "com.example.mydevesstream.app-main-51:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-mergeDebugResources-48:/layout/vidoe_layout.xml",
+        "source": "com.example.mydevesstream.app-main-51:/layout/vidoe_layout.xml"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-mergeDebugResources-48:/layout/fragment_search.xml",
+        "source": "com.example.mydevesstream.app-main-51:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-mergeDebugResources-48:/layout/activity_onboarding.xml",
+        "source": "com.example.mydevesstream.app-main-51:/layout/activity_onboarding.xml"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-mergeDebugResources-48:/layout/fragment_wallet.xml",
+        "source": "com.example.mydevesstream.app-main-51:/layout/fragment_wallet.xml"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-mergeDebugResources-48:/layout/trans_layout.xml",
+        "source": "com.example.mydevesstream.app-main-51:/layout/trans_layout.xml"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-mergeDebugResources-48:/layout/activity_main.xml",
+        "source": "com.example.mydevesstream.app-main-51:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-mergeDebugResources-48:/layout/activity_splash.xml",
+        "source": "com.example.mydevesstream.app-main-51:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-mergeDebugResources-48:/layout/activity_movie_details.xml",
+        "source": "com.example.mydevesstream.app-main-51:/layout/activity_movie_details.xml"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-mergeDebugResources-48:/layout/activity_home.xml",
+        "source": "com.example.mydevesstream.app-main-51:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.example.mydevesstream.app-mergeDebugResources-48:/layout/car_layout.xml",
+        "source": "com.example.mydevesstream.app-main-51:/layout/car_layout.xml"
+    }
+]
